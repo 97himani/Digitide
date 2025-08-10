@@ -1,0 +1,5 @@
+https://huggingface.co/spaces/008himani/mychatbot
+
+
+My Chatbot is a basic chatbot created using Python and Gradio, hosted on Hugging Face Spaces. 
+It takes user input and gives simple responses, built mainly to understand chatbot structure, UI integration, and basic deployment.
